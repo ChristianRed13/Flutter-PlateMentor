@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "718105384999",
+    "project_id": "fir-task-96a07",
+    "storage_bucket": "fir-task-96a07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718105384999:android:5c1d36f96495667d26d602",
+        "android_client_info": {
+          "package_name": "com.example.plate_mentor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718105384999-rdqa4u5fgb496b2et8e0271r9ilkearh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBriSb-eixMvUZ5vQNdqQqs94I0gYY-21A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718105384999-rdqa4u5fgb496b2et8e0271r9ilkearh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "718105384999-krv561gn1mq0nb5glu0ii9gb54bga9e0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebasetask"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
